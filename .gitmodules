@@ -12,3 +12,8 @@
 	path = elego/rental-vertical
 	url = git@github.com:elego/rental-vertical.git
 	branch = v14
+
+[submodule "confianz/ruvati"]
+	path = confianz/ruvati
+	url = git@github.com:confianz/ruvati.git
+	branch = staging
